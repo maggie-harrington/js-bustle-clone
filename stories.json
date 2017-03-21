@@ -1,0 +1,30 @@
+{
+    "stories":
+    [{
+        "headline": "Best Beach Vacations",
+        "date": "03-21-2017",
+        "blurb": "Where to spend Spring break!",
+        "image": "http://www.resortcollection.com/wp-content/themes/resortcollection/property-images/summit/summit-beach-resort-panama-city-beach-fl-beach-01.jpg",
+        "author": "Sarah Leahy",
+        "body": "I need a vacation!!",
+        "category": "travel"
+    },
+    {
+        "headline": "Training for a spring race",
+        "date": "03-20-2017",
+        "blurb": "Go from your couch to 5k",
+        "image": "http://www.active.com/Assets/Running/580/8+Ways+to+Piss+off+a+Runner/Hogging+Lane+One.jpg",
+        "author": "Maggie Harrington",
+        "body": "Start by getting off your couch!",
+        "category": "fitness"
+    },
+    {
+        "headline": "Book lovers guide to London",
+        "date": "03-19-2017",
+        "blurb": "London through the eyes of a bookworm",
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-01/28/15/enhanced/webdr09/original-27383-1422477249-21.png",
+        "author": "London girl",
+        "body": "I love to read and I love london",
+        "category": "travel"
+    }]
+}

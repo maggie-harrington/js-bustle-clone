@@ -1,1 +1,8 @@
-{{outlet}}
+
+<h2>Today's top stories</h2>
+
+<ul>
+    {{#each model as |story|}}
+    {{story-tile story=story}}<br>
+    {{/each}}
+</ul>
