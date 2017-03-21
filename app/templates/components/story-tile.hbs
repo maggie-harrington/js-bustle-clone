@@ -1,5 +1,5 @@
 <h1>{{#link-to 'story' story.id}}{{story.headline}}{{/link-to}}</h1>
-<p><img src={{story.image}}></p>
+<p>{{#link-to 'story' story.id}}<img src={{story.image}}>{{/link-to}}</p>
 <h3>{{story.blurb}}</h3>
 <h4>{{story.author}}</h4>
 <p>{{story.date}}</p>
